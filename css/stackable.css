@@ -3,10 +3,13 @@
 {
   background-color: #eee;
   border: solid 1px #ccc;
+  height: 500px;
   padding: 20px;
   width: 20%;
   float: left;
   margin: 0 0 0 -10%;
+  -moz-border-radius: 5px;
+  -moz-box-shadow: 0 0 5px #888;
 }
 
 .stackable:first-child
