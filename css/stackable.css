@@ -1,0 +1,15 @@
+/* paulmwatson.com 2010. stackable. */
+.stackable
+{
+  background-color: #eee;
+  border: solid 1px #ccc;
+  padding: 20px;
+  width: 20%;
+  float: left;
+  margin: 0 0 0 -10%;
+}
+
+.stackable:first-child
+{
+  margin-left: 0;
+}
